@@ -1,1 +1,2 @@
 # backend-training
+> Este proyecto lo hago para desenpolvarme, entrenar mi logica de  programacion, para documentar mi avance y para con ello  poder estar mas seguro de poder entrar al mundo laboral del desarrollo web, estar listo para entrevistas laborales y tener un buen desempeño en entornos reales de desarrollo de software.
